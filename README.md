@@ -12,3 +12,4 @@
 
 # Results with DDPG:
 <img src="images/Results.png">
+The score 91.538 was achieved in the episode 6!
